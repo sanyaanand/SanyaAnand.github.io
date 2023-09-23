@@ -1,5 +1,5 @@
 
-TITLE: 
+TITLE:
 Blend - Fully Responsive Free HTML5 template
 
 AUTHOR:
@@ -53,4 +53,3 @@ https://github.com/mhuggins/jquery-countTo
 
 Google Map
 https://maps.google.com/
-
